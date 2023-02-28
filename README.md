@@ -22,6 +22,9 @@ I added the information about hole coordinates for the front panel in the folder
 ## Calibration
 The calibration procedure is explained in [this video](https://vimeo.com/163160088). Different from the original module from Music Thing Modular, the trim pot in my version is not accessible from the front panel, but located at the backside of the module.
 
+## Extension Connectors
+I added two connectors at the back of the main PCB, where the available Turing Machine expanders "Volts" and "Pulses", available at Thonk, can be plugged in. The pinouts are the same, as in the original module.
+
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
 
