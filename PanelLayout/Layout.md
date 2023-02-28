@@ -31,4 +31,4 @@ Coordinates origin is the lower left corner of the panel.
 | 18 | 22.5 | 15 |
 | 19 | 35 | 15 |
 
-<img width="355" alt="Panel" src="https://user-images.githubusercontent.com/97026614/221763060-ffe8aa8f-78b7-4bee-b6b1-029906402a86.png">
+![Panel](https://user-images.githubusercontent.com/97026614/221766997-3a4c583a-1ffa-4bc0-9931-3bc9700b09cb.png)
