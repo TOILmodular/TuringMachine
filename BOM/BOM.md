@@ -41,7 +41,7 @@
 | Header | 2.54mm Female 1x5 | 2 | Connector Control Board |
 | Header | 2.54mm Female 1x9 | 1 | Connector Control Board |
 | Header | 2.54mm Female 2x5 | 1 | Power Connector |
-| Header | 2.54mm Female 2x5 | 2 | Expander Connector |
+| Header | 2.54mm Male 2x5 | 2 | Expander Connector |
 
 *) Rotary Switch:
 
