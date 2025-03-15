@@ -1,5 +1,7 @@
 ## Panel Layout for PCB
+The panel dimensions provided in the section "Original Design" below are based on my own module build, since I am not following the standard HP (1HP eq. 5.08mm) size. An alternative by building an HP-standard size panel can be found in the section "HP Standard Design" further below.
 
+### Original Design
 Coordinates given in the table fit to the layout of components given in the PCBc in folder GerberFiles.
 The layout is the same for both versions.
 
@@ -32,3 +34,18 @@ Coordinates origin is the lower left corner of the panel.
 | 19 | 35 | 15 |
 
 ![Panel](https://user-images.githubusercontent.com/97026614/221766997-3a4c583a-1ffa-4bc0-9931-3bc9700b09cb.png)
+
+### HP Stadard Design
+For building the panel with a size following the HP standard, you can use the panel Gerber files provided in the folder "GerberFiles".
+
+I ordered my own panel via such gerber file built out of PCB material.
+
+| Parameter | Value |
+| --- | --- |
+| Width | 10HP |
+| Pot hole diameter | 8mm |
+| Rotary switch hole diameter | 8mm |
+| Jack hole diameter | 6.1mm |
+| Switch hole diameter | 6.5mm |
+| LED hole diameter  | 3.1mm|
+| Mounting hole diameter | 3.2mm|
